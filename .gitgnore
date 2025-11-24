@@ -1,0 +1,49 @@
+
+# Файлы проектов и библиотек, которые являются временными
+*.PrjPCB.bak
+*.PrjPcb.RCS
+*.PcbDoc.bak
+*.SchDoc.bak
+*.OutJob.bak
+*.ddb.bak
+*.dch
+*.~(1)*
+*.~(2)*
+*.lck
+
+# Файлы отчетов и компиляции
+*.log
+*.drc
+*.cmp
+*.rpt
+*.csv
+*.htm
+*.html
+*.pdf
+*.xml
+*.sch_erc
+
+# Файлы, генерируемые при трассировке (Gerber, NC Drill и т.п.)
+*.Gb*
+*.GBL
+*.GTL
+*.GKO
+*.GM*
+*.GP*
+*.GT*
+*.drl
+*.gtd
+*.PcbLib
+*.SchLib
+*.PrjPcbStructure
+*.zip
+History/
+__Previews/
+Project Logs for ModbusYoRadio/
+Librares/
+
+# Прочие временные и пользовательские настройки
+*.apr
+*.ndb
+*User.ini
+*Project.Preference
